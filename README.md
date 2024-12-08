@@ -1,5 +1,5 @@
 
-[![MasterHead](https://cdn-eaekd.nitrocdn.com/CxTeoSPKdjdqTSxLEEGaKiGroHlKASqH/assets/images/optimized/rev-d765668/max/800/0*aA9QMzH-2pd4aIE7.gif)](https://rishavchanda.io)
+[![MasterHead](https://static.wixstatic.com/media/6c3893_60b02f5779ab4a239a715f41ba6a007e~mv2_d_5000_1447_s_2.gif)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Sayan Paul</h1>
 <h3 align="center">A Passionate Data Enthusiast , Solving Real-Time Problems Using Data</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/121814714/222189810-23ce992a-17a7-427c-bae7-253f3ae6ac1e.gif">
